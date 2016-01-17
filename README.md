@@ -1,1 +1,3 @@
-Design for a simple lawnchair~
+### Lawn Chair
+
+Sketchup design for a simple lawn chair.
